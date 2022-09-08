@@ -68,9 +68,9 @@
 
 #### 2.实证策略
 
-$$
+$$\begin{align\*}
 Y_{ijpt}=\alpha+\beta MinW_{jt}+X_{it}·\zeta+\eta Z_{jt}+\delta_i+\phi_{pt}+\epsilon_{ijpt}
-$$
+\end{align\*}$$
 
 $$\begin{align\*}
 Y_{ijpt}=\alpha+\beta_1 MinW_{jt}+\beta_2 MediumType_{ijt}+ \beta_3 HighType_{ijt}+ \\\\\\ 
