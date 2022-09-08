@@ -74,8 +74,7 @@ $$
 
 $$\begin{align\*}
 Y_{ijpt}=\alpha+\beta_1 MinW_{jt}+\beta_2 MediumType_{ijt}+ \beta_3 HighType_{ijt}+ \\\\\\ 
-\beta_4 MinW_{jt}·MediumType_{ijt}+\beta_5 MinW_{jt}·HighType_{ijt}+X_{it}·\zeta+ \\\\\\ 
-\eta Z_{jt}+\delta_i+\phi_{pt}+\epsilon_{ijpt}
+\beta_4 MinW_{jt}·MediumType_{ijt}+\beta_5 MinW_{jt}·HighType_{ijt}+X_{it}·\zeta+ \eta Z_{jt}+\delta_i+\phi_{pt}+\epsilon_{ijpt}
 \end{align\*}$$
 
 
@@ -103,6 +102,11 @@ $$
 Y_{ijpt}=\alpha+\sum_{m=-2}^2 \beta_{1}^{3m} MinW_{j,t-3m} + \sum_{m=-2}^2 \beta_{2}^{3m} MinW_{j,t-3m} ·MediumType_{ijt} +\\ \sum_{m=-2}^2 \beta_{3}^{3m} MinW_{j,t-3m} ·HighType_{ijt}+\gamma_1MediumType_{ijt}+\gamma_2HighType_{ijt}+\\X_{it}·\zeta+\eta Z_{jt}+\delta_i+\phi_{pt}+\epsilon_{ijpt}
 $$
 
+$$\begin{align\*}
+Y_{ijpt}=\alpha+\sum_{m=-2}^2 \beta_{1}^{3m} MinW_{j,t-3m} + \sum_{m=-2}^2 \beta_{2}^{3m} MinW_{j,t-3m} ·MediumType_{ijt} +\\\\\\
+\sum_{m=-2}^2 \beta_{3}^{3m} MinW_{j,t-3m} ·HighType_{ijt}+\gamma_1MediumType_{ijt}+\gamma_2HighType_{ijt}+\\\\\\\ 
+\X_{it}·\zeta+\eta Z_{jt}+\delta_i+\phi_{pt}+\epsilon_{ijpt}
+\end{align\*}$$
 
 
 * 滞后效应（3m>0）
