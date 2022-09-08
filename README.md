@@ -166,7 +166,7 @@ Y_{ijpt}=\alpha+\sum_{m=-2}^2 \beta_{1}^{3m} MinW_{j,t-3m} + \sum_{m=-2}^2 \beta
 * baseline中，使用商店所在县的中心距离边界的位置衡量“商店是否属于边界”，现在直接使用商店的具体位置
 
 ![image](https://github.com/mengke25/LR_Minimun_wage_and_individual_worker_productivity/blob/main/figs/fig3D.png)
-![image](https://github.com/mengke25/LR_Minimun_wage_and_individual_worker_productivity/blob/main/figs/fug3E.png)
+![image](https://github.com/mengke25/LR_Minimun_wage_and_individual_worker_productivity/blob/main/figs/fig3E.png)
 ![image](https://github.com/mengke25/LR_Minimun_wage_and_individual_worker_productivity/blob/main/figs/tableE9.png)
 
 #### 8.不堆叠观察(Unstacking)
