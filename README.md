@@ -73,7 +73,7 @@ Y_{ijpt}=\alpha+\beta MinW_{jt}+X_{it}·\zeta+\eta Z_{jt}+\delta_i+\phi_{pt}+\ep
 $$
 
 $$
-Y_{ijpt}=\alpha+\beta_1 MinW_{jt}+\beta_2 MediumType_{ijt}+ \beta_3 HighType_{ijt}+\\\\ \beta_4 MinW_{jt}·MediumType_{ijt}+\beta_5 MinW_{jt}·HighType_{ijt}+X_{it}·\zeta+\eta Z_{jt}+\delta_i+\phi_{pt}+\epsilon_{ijpt}
+Y_{ijpt}=\alpha+\beta_1 MinW_{jt}+\beta_2 MediumType_{ijt}+ \beta_3 HighType_{ijt}+\\\\\\ \beta_4 MinW_{jt}·MediumType_{ijt}+\beta_5 MinW_{jt}·HighType_{ijt}+X_{it}·\zeta+\eta Z_{jt}+\delta_i+\phi_{pt}+\epsilon_{ijpt}
 $$
 
 
